@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="transformaClasificacion.xsl"?>
+<clasificacion año="19/20">
+    <equipo>
+        <nombre>Athletic Club Bilbao</nombre>
+        <puntos>51</puntos>
+        <partidosGanados>13</partidosGanados>
+        <partidosEmpatados>12</partidosEmpatados>
+        <partidosPerdidos>13</partidosPerdidos>
+        <golesFavor>41</golesFavor>
+        <golesContra>38</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Atlético Madrid</nombre>
+        <puntos>70</puntos>
+        <partidosGanados>18</partidosGanados>
+        <partidosEmpatados>16</partidosEmpatados>
+        <partidosPerdidos>4</partidosPerdidos>
+        <golesFavor>51</golesFavor>
+        <golesContra>27</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>CA Osasuna</nombre>
+        <puntos>52</puntos>
+        <partidosGanados>13</partidosGanados>
+        <partidosEmpatados>13</partidosEmpatados>
+        <partidosPerdidos>12</partidosPerdidos>
+        <golesFavor>46</golesFavor>
+        <golesContra>54</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>CD Leganés</nombre>
+        <puntos>36</puntos>
+        <partidosGanados>8</partidosGanados>
+        <partidosEmpatados>12</partidosEmpatados>
+        <partidosPerdidos>18</partidosPerdidos>
+        <golesFavor>30</golesFavor>
+        <golesContra>51</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Deportivo Alavés</nombre>
+        <puntos>39</puntos>
+        <partidosGanados>10</partidosGanados>
+        <partidosEmpatados>9</partidosEmpatados>
+        <partidosPerdidos>19</partidosPerdidos>
+        <golesFavor>34</golesFavor>
+        <golesContra>59</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>FC Barcelona</nombre>
+        <puntos>82</puntos>
+        <partidosGanados>25</partidosGanados>
+        <partidosEmpatados>7</partidosEmpatados>
+        <partidosPerdidos>6</partidosPerdidos>
+        <golesFavor>86</golesFavor>
+        <golesContra>38</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Getafe CF</nombre>
+        <puntos>54</puntos>
+        <partidosGanados>14</partidosGanados>
+        <partidosEmpatados>12</partidosEmpatados>
+        <partidosPerdidos>12</partidosPerdidos>
+        <golesFavor>43</golesFavor>
+        <golesContra>37</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Granada CF</nombre>
+        <puntos>56</puntos>
+        <partidosGanados>16</partidosGanados>
+        <partidosEmpatados>8</partidosEmpatados>
+        <partidosPerdidos>14</partidosPerdidos>
+        <golesFavor>52</golesFavor>
+        <golesContra>45</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Levante UD</nombre>
+        <puntos>49</puntos>
+        <partidosGanados>14</partidosGanados>
+        <partidosEmpatados>7</partidosEmpatados>
+        <partidosPerdidos>17</partidosPerdidos>
+        <golesFavor>47</golesFavor>
+        <golesContra>53</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>RC Celta Vigo</nombre>
+        <puntos>37</puntos>
+        <partidosGanados>7</partidosGanados>
+        <partidosEmpatados>16</partidosEmpatados>
+        <partidosPerdidos>15</partidosPerdidos>
+        <golesFavor>37</golesFavor>
+        <golesContra>49</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>RCD Espanyol</nombre>
+        <puntos>25</puntos>
+        <partidosGanados>5</partidosGanados>
+        <partidosEmpatados>10</partidosEmpatados>
+        <partidosPerdidos>23</partidosPerdidos>
+        <golesFavor>27</golesFavor>
+        <golesContra>58</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>RCD Mallorca</nombre>
+        <puntos>33</puntos>
+        <partidosGanados>9</partidosGanados>
+        <partidosEmpatados>6</partidosEmpatados>
+        <partidosPerdidos>23</partidosPerdidos>
+        <golesFavor>40</golesFavor>
+        <golesContra>65</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Real Betis</nombre>
+        <puntos>41</puntos>
+        <partidosGanados>10</partidosGanados>
+        <partidosEmpatados>11</partidosEmpatados>
+        <partidosPerdidos>17</partidosPerdidos>
+        <golesFavor>48</golesFavor>
+        <golesContra>60</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <puntos>87</puntos>
+        <partidosGanados>26</partidosGanados>
+        <partidosEmpatados>9</partidosEmpatados>
+        <partidosPerdidos>3</partidosPerdidos>
+        <golesFavor>70</golesFavor>
+        <golesContra>25</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Real Sociedad</nombre>
+        <puntos>56</puntos>
+        <partidosGanados>16</partidosGanados>
+        <partidosEmpatados>8</partidosEmpatados>
+        <partidosPerdidos>14</partidosPerdidos>
+        <golesFavor>56</golesFavor>
+        <golesContra>48</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Real Valladolid CF</nombre>
+        <puntos>42</puntos>
+        <partidosGanados>9</partidosGanados>
+        <partidosEmpatados>15</partidosEmpatados>
+        <partidosPerdidos>14</partidosPerdidos>
+        <golesFavor>32</golesFavor>
+        <golesContra>43</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>SD Eibar</nombre>
+        <puntos>42</puntos>
+        <partidosGanados>11</partidosGanados>
+        <partidosEmpatados>9</partidosEmpatados>
+        <partidosPerdidos>18</partidosPerdidos>
+        <golesFavor>39</golesFavor>
+        <golesContra>56</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Sevilla FC</nombre>
+        <puntos>70</puntos>
+        <partidosGanados>19</partidosGanados>
+        <partidosEmpatados>13</partidosEmpatados>
+        <partidosPerdidos>6</partidosPerdidos>
+        <golesFavor>54</golesFavor>
+        <golesContra>34</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Valencia CF</nombre>
+        <puntos>53</puntos>
+        <partidosGanados>14</partidosGanados>
+        <partidosEmpatados>11</partidosEmpatados>
+        <partidosPerdidos>13</partidosPerdidos>
+        <golesFavor>46</golesFavor>
+        <golesContra>53</golesContra>
+    </equipo>
+    <equipo>
+        <nombre>Villarreal CF</nombre>
+        <puntos>60</puntos>
+        <partidosGanados>18</partidosGanados>
+        <partidosEmpatados>6</partidosEmpatados>
+        <partidosPerdidos>14</partidosPerdidos>
+        <golesFavor>63</golesFavor>
+        <golesContra>49</golesContra>
+    </equipo>
+</clasificacion>
